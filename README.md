@@ -1,2 +1,7 @@
-# sql_examples_4TG
-Examples of code for telegram channel DataJungle
+# Примеры SQL кода для подписчиков канала DataДжунгли
+
+
+## Updates
+
+-- 06.07.2024 Добавлены примеры кода для оптимищации запросов.
+
